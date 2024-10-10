@@ -1,6 +1,23 @@
 body{
     background-color: rgb(169, 198, 234);
-    font-family: Arial, sans-serif;
+}
+body .page p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.body .avengers{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .bluebox{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .common{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .levels{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.page .Heroes{
+    font-family: Arial, Helvetica, sans-serif;
 }
 .page{
     background-color: white;
@@ -10,6 +27,7 @@ body{
 }
 .page h1, h2{
     text-align: center;
+    font-family: "Bebas Neue", sans-serif;
 }
 /* .page .header{
     margin: 125px 0;
@@ -23,6 +41,7 @@ body{
 }
 .page .avengers p{
     text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .page .bluebox{
     color: white;
@@ -78,6 +97,7 @@ body{
 }
 .page .footer .blueP p{
     color: rgb(28, 92, 148);
+    font-family: Arial, Helvetica, sans-serif
 }
 .page .footer span a{
     color: rgb(28, 92, 148);
