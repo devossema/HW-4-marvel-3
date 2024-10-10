@@ -65,6 +65,9 @@ body{
 .page .levels table tr:nth-child(1){
     background-color: rgb(28, 92, 148);
 }
+.page .levels table td{
+    background-color: rgb(201, 204, 207);
+}
 .page .levels table{
     text-align: center;
     border-collapse: collapse;
