@@ -76,3 +76,10 @@ body{
     text-align: center;
     padding-bottom: 30px;
 }
+.page .footer .blueP p{
+    color: rgb(28, 92, 148);
+}
+.page .footer span a{
+    color: rgb(28, 92, 148);
+    text-decoration: none;
+}
